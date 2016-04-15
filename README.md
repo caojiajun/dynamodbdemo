@@ -33,7 +33,7 @@ if not, go to [amazon.dynamodb](http://docs.aws.amazon.com/amazondynamodb/latest
 
 if not, go to [apache.maven](http://maven.apache.org/)
 
-while you startup the local version and build success our demo, you can run Test.java to use the interfaces in DynamodnOperation.java
+while you startup the local version and build success our demo, you can run Test.java to use the interfaces in DynamodbOperation.java
 
 
 
